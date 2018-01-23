@@ -17,7 +17,7 @@ You will need to download all materials listed above. Once downloaded clone this
 
 Change directories to ItemCatalog ```cd /vagrant/ItemCatalog```. [Run ```DBsetup``` to create a database. Run ```addItems.py``` to add example items and categories]
 
-Run ```webserver.py``` and access the reulsts at http://localhost:8000
+Run ```webserver.py``` and access the results at http://localhost:8000
 
 You can exit the application by pressing 'ctrl+c' in your terminal.
 
